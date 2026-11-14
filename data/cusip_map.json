@@ -556,6 +556,11 @@
   "ticker": "HD",
   "type": "Common Stock"
  },
+ "43849R105": {
+  "name": "HONEYWELL AEROSPACE INC",
+  "ticker": "HONA",
+  "type": "Common Stock"
+ },
  "440452100": {
   "name": "HORMEL FOODS CORP",
   "ticker": "HRL",
@@ -1125,6 +1130,11 @@
   "name": "SS FINANCIAL SELECT SECTOR",
   "ticker": "XLF",
   "type": "ETP"
+ },
+ "82982L103": {
+  "name": "SITEONE LANDSCAPE SUPPLY INC",
+  "ticker": "SITE",
+  "type": "Common Stock"
  },
  "829933100": {
   "name": "SIRIUS XM HOLDINGS INC",
