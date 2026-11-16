@@ -14,6 +14,11 @@
   "ticker": "AEVA",
   "type": "Common Stock"
  },
+ "008474108": {
+  "name": "AGNICO EAGLE MINES LTD",
+  "ticker": "AEM",
+  "type": "Common Stock"
+ },
  "013872106": {
   "name": "ALCOA CORP",
   "ticker": "AA",
@@ -132,6 +137,11 @@
  "060505104": {
   "name": "BANK OF AMERICA CORP",
   "ticker": "BAC",
+  "type": "Common Stock"
+ },
+ "06849F108": {
+  "name": "BARRICK MINING CORP",
+  "ticker": "B",
   "type": "Common Stock"
  },
  "07373V105": {
@@ -314,6 +324,11 @@
  "227046109": {
   "name": "CROCS INC",
   "ticker": "CROX",
+  "type": "Common Stock"
+ },
+ "23255M303": {
+  "name": "KORSANA BIOSCIENCES INC",
+  "ticker": "KRSA",
   "type": "Common Stock"
  },
  "23306J309": {
@@ -591,6 +606,11 @@
   "ticker": "IDXX",
   "type": "Common Stock"
  },
+ "45765U103": {
+  "name": "INSIGHT ENTERPRISES INC",
+  "ticker": "NSIT",
+  "type": "Common Stock"
+ },
  "457669307": {
   "name": "INSMED INC",
   "ticker": "INSM",
@@ -751,6 +771,11 @@
   "ticker": "LYFT",
   "type": "Common Stock"
  },
+ "55306N104": {
+  "name": "MKS INC",
+  "ticker": "MKSI",
+  "type": "Common Stock"
+ },
  "55336V100": {
   "name": "MPLX LP",
   "ticker": "MPLX",
@@ -821,6 +846,11 @@
   "ticker": "MU",
   "type": "Common Stock"
  },
+ "60744M106": {
+  "name": "MOBILITY GLOBAL INC",
+  "ticker": "MBGL",
+  "type": "Common Stock"
+ },
  "608190104": {
   "name": "MOHAWK INDUSTRIES INC",
   "ticker": "MHK",
@@ -839,6 +869,11 @@
  "615369105": {
   "name": "MOODY'S CORP",
   "ticker": "MCO",
+  "type": "Common Stock"
+ },
+ "61559X104": {
+  "name": "MOONLAKE IMMUNOTHERAPEUTICS",
+  "ticker": "MLTX",
   "type": "Common Stock"
  },
  "629377508": {
@@ -879,6 +914,11 @@
  "650111107": {
   "name": "NEW YORK TIMES CO-A",
   "ticker": "NYT",
+  "type": "Common Stock"
+ },
+ "651639106": {
+  "name": "NEWMONT CORP",
+  "ticker": "NEM",
   "type": "Common Stock"
  },
  "65290E101": {
@@ -954,6 +994,11 @@
  "693718108": {
   "name": "PACCAR INC",
   "ticker": "PCAR",
+  "type": "Common Stock"
+ },
+ "69608A108": {
+  "name": "PALANTIR TECHNOLOGIES INC-A",
+  "ticker": "PLTR",
   "type": "Common Stock"
  },
  "697435105": {
@@ -1181,9 +1226,19 @@
   "ticker": "STUB",
   "type": "Common Stock"
  },
+ "87162W100": {
+  "name": "TD SYNNEX CORP",
+  "ticker": "SNX",
+  "type": "Common Stock"
+ },
  "872540109": {
   "name": "TJX COMPANIES INC",
   "ticker": "TJX",
+  "type": "Common Stock"
+ },
+ "87305R109": {
+  "name": "TTM TECHNOLOGIES",
+  "ticker": "TTMI",
   "type": "Common Stock"
  },
  "874039100": {
@@ -1199,6 +1254,11 @@
  "879369106": {
   "name": "TELEFLEX INC",
   "ticker": "TFX",
+  "type": "Common Stock"
+ },
+ "88023U101": {
+  "name": "SOMNIGROUP INTERNATIONAL INC",
+  "ticker": "SGI",
   "type": "Common Stock"
  },
  "88025U109": {
@@ -1347,6 +1407,11 @@
   "ticker": "WAT",
   "type": "Common Stock"
  },
+ "94352A104": {
+  "name": "WAVE LIFE SCIENCES INC",
+  "ticker": "WVE",
+  "type": "Common Stock"
+ },
  "95082P105": {
   "name": "WESCO INTERNATIONAL INC",
   "ticker": "WCC",
@@ -1355,6 +1420,11 @@
  "955306105": {
   "name": "WEST PHARMACEUTICAL SERVICES",
   "ticker": "WST",
+  "type": "Common Stock"
+ },
+ "958102105": {
+  "name": "WESTERN DIGITAL CORP",
+  "ticker": "WDC",
   "type": "Common Stock"
  },
  "960413102": {
@@ -1430,6 +1500,11 @@
  "G11448100": {
   "name": "BITDEER TECHNOLOGIES GROUP-A",
   "ticker": "BTDR",
+  "type": "Common Stock"
+ },
+ "G25457105": {
+  "name": "CREDO TECHNOLOGY GROUP HOLDI",
+  "ticker": "CRDO",
   "type": "Common Stock"
  },
  "G25508105": {
@@ -1545,6 +1620,11 @@
  "Q4982L109": {
   "name": "IREN LTD",
   "ticker": "IREN",
+  "type": "Common Stock"
+ },
+ "T19377109": {
+  "name": "BENDING SPOONS SPA",
+  "ticker": "BSP",
   "type": "Common Stock"
  },
  "Y95308105": null
