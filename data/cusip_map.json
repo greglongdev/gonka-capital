@@ -89,6 +89,11 @@
   "ticker": "AAPL",
   "type": "Common Stock"
  },
+ "038222105": {
+  "name": "APPLIED MATERIALS INC",
+  "ticker": "AMAT",
+  "type": "Common Stock"
+ },
  "03831W108": {
   "name": "APPLOVIN CORP-CLASS A",
   "ticker": "APP",
@@ -386,6 +391,11 @@
   "ticker": "DG",
   "type": "Common Stock"
  },
+ "256746108": {
+  "name": "DOLLAR TREE INC",
+  "ticker": "DLTR",
+  "type": "Common Stock"
+ },
  "25754A201": {
   "name": "DOMINO'S PIZZA INC",
   "ticker": "DPZ",
@@ -621,6 +631,11 @@
   "ticker": "INTC",
   "type": "Common Stock"
  },
+ "45866F104": {
+  "name": "INTERCONTINENTAL EXCHANGE IN",
+  "ticker": "ICE",
+  "type": "Common Stock"
+ },
  "45867G101": {
   "name": "INTERDIGITAL INC",
   "ticker": "IDCC",
@@ -851,6 +866,11 @@
   "ticker": "MBGL",
   "type": "Common Stock"
  },
+ "607828100": {
+  "name": "MODEXUS SOLUTIONS INC",
+  "ticker": "MOD",
+  "type": "Common Stock"
+ },
  "608190104": {
   "name": "MOHAWK INDUSTRIES INC",
   "ticker": "MHK",
@@ -976,6 +996,11 @@
   "ticker": "ON",
   "type": "Common Stock"
  },
+ "68389X105": {
+  "name": "ORACLE CORP",
+  "ticker": "ORCL",
+  "type": "Common Stock"
+ },
  "68404L201": {
   "name": "OPTION CARE HEALTH INC",
   "ticker": "OPCH",
@@ -989,6 +1014,11 @@
  "690742101": {
   "name": "OWENS CORNING",
   "ticker": "OC",
+  "type": "Common Stock"
+ },
+ "69331C108": {
+  "name": "P G & E CORP",
+  "ticker": "PCG",
   "type": "Common Stock"
  },
  "693718108": {
@@ -1570,6 +1600,11 @@
  "G96629103": {
   "name": "WILLIS TOWERS WATSON PLC",
   "ticker": "WTW",
+  "type": "Common Stock"
+ },
+ "H01301128": {
+  "name": "ALCON INC",
+  "ticker": "ALC",
   "type": "Common Stock"
  },
  "H1467J104": {
